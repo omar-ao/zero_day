@@ -1,3 +1,4 @@
 # Vagrant project
 
-This is ALX SE vagrant project
+This is ALX SE optional vagrant project
+
